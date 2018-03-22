@@ -1,0 +1,1 @@
+obj-$(CONFIG_FANBIN) += pwm-servo.o

@@ -1,0 +1,4 @@
+config FANBIN
+    tristate "fanbin driver for pwm servo"
+    help
+        Driver for pwm servo
