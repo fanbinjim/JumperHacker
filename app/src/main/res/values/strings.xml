@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">物理外挂</string>
+    <string name="close">Close</string>
+    <string name="open">open</string>
+    <string name="toggle">On</string>
+    <string name="capture">Capture</string>
+    <string name="toggle_button">ToggleButton</string>
+    <string name="process_1">Process_1</string>
+    <string name="start_process">Start Process</string>
+</resources>
